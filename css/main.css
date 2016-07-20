@@ -1,0 +1,21 @@
+div{
+	width:150px;
+	height: 150px;	
+	background-color: green;
+}
+div>div{
+	margin:30px 0px 25px 25px;
+	background-color: red
+}
+
+.contenedor{
+	width:570px;
+	height:250px;	
+}
+.clearfix{
+	overflow:auto;
+	zoom:1;
+}
+.floating{
+	float:left;
+}
